@@ -1,1 +1,1 @@
-# GraphQL Intro
+# GraphQL excercise
